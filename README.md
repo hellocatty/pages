@@ -1,4 +1,6 @@
-https://google.com
-https://agar.io
-https://www.youtube.com/watch?v=1opFH5wcK_g
-https://discord.com
+##Some Links To Get Started:
+
+https://google.com\
+https://agar.io\
+https://discord.com\
+https://hellocatty.github.io/pages\
