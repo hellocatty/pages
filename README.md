@@ -6,4 +6,4 @@ This repository is for accessing blocked websites in school through a chrome app
 
 - [agar.io](https://agar.io/)
 - [Discord](https://discord.com/)
-- [Website Opener](https://hellocatty.github.io)
+- [Website Opener](https://hellocatty.github.io/pages)
